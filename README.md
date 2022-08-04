@@ -55,7 +55,7 @@ root
 En caso de que no funcione contacte con el administrador del respositorio o considere prioritariamente soluciones en linea.
 
 #### Anotaciones importartes a tener en cuenta
-###### Porfavor Siempre asegurarse hacer Pull antes de subir cambios con Push. Esto para evitar conflicto de cambios en el repositorio.
+###### Porfavor Siempre asegurarse hacer Pull antes de subir cambios con Push. Esto para evitar conflicto de cambios en el repositorio, y trabaje en el branch de develop para mantener un versionamiento estable de salidas a produccion en en brach master.
 
 ###### En caso de tener dudas, complicaciones, inconvenientes y demás percances contacte con los colaboradores del repositorio.
 
