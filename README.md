@@ -24,7 +24,7 @@ Requisitios
 
 ###### Fijese en la carpeta 'Resources' del proyecto allí encontrara varios archivos que pueden facilitar el uso de este software, en este caso cabe resaltar el archivo ***'Query_CrearBD.sql'***, este es un archivo sql con una sintaxis especifica para crear la base de datos necesaria para que el programa fncione de manera correcta al momento de gestionar informacion con la base de datos. hechele un vistazo y trate de entender primero la estructura
 
-#Paso final#
+# Paso final
 Una vez que se logre bajar el proyecto correctamente y tenga lista la Base de datos, dirijase al archivo ***'src\java\Configuration\Conection.java'***.
 
 Allí encontrara la logica que se usa para generar una conexion estable con la base de datos, interprete el código de manera que lo entienda y haga las correcciones correspondientes para que pueda trabajar con la base de datos de su maquina local;
