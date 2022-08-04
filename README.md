@@ -3,7 +3,7 @@
 Este repositorio fue creado para facilitar la accesibilidad al código fuente que resuelve la prueba tecnica ubicada en la carpeta resoures del proyecto.
 
 ###Guia de instalación
-#####Requisitios
+Requisitios
 - Java 8
 - SQL Server 2018 - 2019
 - Conexión a internet para el usos de los links referenciados de BOOSTRAP 5+
