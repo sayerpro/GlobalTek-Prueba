@@ -34,7 +34,7 @@ Se requieren cambios en las siguientes 3  variables:
 ##### Url
 - Estructura
 jdbc:sqlserver://localhost:(puerto);databaseName=(nombreBaseDeDatos));
-######Ejemplo
+###### Ejemplo
 jdbc:sqlserver://localhost:1433;databaseName=Facturacion;
 
 ##### User
