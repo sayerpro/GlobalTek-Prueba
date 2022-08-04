@@ -49,7 +49,7 @@ root
 ###### Ejemplo
 123
 
-### Una vez se logre levantar el servidor tanto de la BD(1433) como de Java (8080) puertos por defecto con este Url podra visualizar la web e interactuar con el software (http://localhost:8080/Facturacion/#) 
+### Una vez se logre levantar el servidor tanto de la BD(1433) como de Java (8080) puertos por defecto, con este Url podra visualizar la web e interactuar con el software (http://localhost:8080/Facturacion/#) 
 
 
 En caso de que no funcione contacte con el administrador del respositorio o considere prioritariamente soluciones en linea.
